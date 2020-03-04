@@ -1,0 +1,11 @@
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\bin\Debug\netcoreapp3.1\Star_tree.exe
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\bin\Debug\netcoreapp3.1\Star_tree.deps.json
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\bin\Debug\netcoreapp3.1\Star_tree.runtimeconfig.json
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\bin\Debug\netcoreapp3.1\Star_tree.runtimeconfig.dev.json
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\bin\Debug\netcoreapp3.1\Star_tree.dll
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\bin\Debug\netcoreapp3.1\Star_tree.pdb
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\obj\Debug\netcoreapp3.1\Star_tree.csprojAssemblyReference.cache
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\obj\Debug\netcoreapp3.1\Star_tree.AssemblyInfoInputs.cache
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\obj\Debug\netcoreapp3.1\Star_tree.AssemblyInfo.cs
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\obj\Debug\netcoreapp3.1\Star_tree.dll
+C:\Users\SashaMois\source\repos\Star_tree\Star_tree\obj\Debug\netcoreapp3.1\Star_tree.pdb
