@@ -33,7 +33,18 @@ namespace Star_tree
             /* Input a tree */
             Console.Write("Input count of lines: ");
             Console.WriteLine();
-            DrawPyramid(Convert.ToInt32(Console.ReadLine()));
+            do
+            {
+                try
+                {
+                    DrawPyramid(checked(Convert.ToInt32(Console.ReadLine())));
+                    break;
+                }
+                catch
+                {
+                    Console.WriteLine("You wrote wrong statement. Please, try again!");
+                }
+            } while (true);
             Console.WriteLine();
             Console.WriteLine("Cheers holiday!");
             /****************/

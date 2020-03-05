@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SashaMois\\source\\repos\\Star_tree\\Star_tree\\Star_tree.csproj": {}
+    "C:\\Users\\SashaMois\\source\\repos\\C#\\Star_tree\\Star_tree\\Star_tree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SashaMois\\source\\repos\\Star_tree\\Star_tree\\Star_tree.csproj": {
+    "C:\\Users\\SashaMois\\source\\repos\\C#\\Star_tree\\Star_tree\\Star_tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SashaMois\\source\\repos\\Star_tree\\Star_tree\\Star_tree.csproj",
+        "projectUniqueName": "C:\\Users\\SashaMois\\source\\repos\\C#\\Star_tree\\Star_tree\\Star_tree.csproj",
         "projectName": "Star_tree",
-        "projectPath": "C:\\Users\\SashaMois\\source\\repos\\Star_tree\\Star_tree\\Star_tree.csproj",
+        "projectPath": "C:\\Users\\SashaMois\\source\\repos\\C#\\Star_tree\\Star_tree\\Star_tree.csproj",
         "packagesPath": "C:\\Users\\SashaMois\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SashaMois\\source\\repos\\Star_tree\\Star_tree\\obj\\",
+        "outputPath": "C:\\Users\\SashaMois\\source\\repos\\C#\\Star_tree\\Star_tree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SashaMois\\AppData\\Roaming\\NuGet\\NuGet.Config",
